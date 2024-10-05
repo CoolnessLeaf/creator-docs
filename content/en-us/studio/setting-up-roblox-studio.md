@@ -1,5 +1,5 @@
 ---
-title: Roblox Studio Setup
+title: CoolnessLeaf Setup 
 description: Explains how to install Roblox Studio on your system.
 ---
 
